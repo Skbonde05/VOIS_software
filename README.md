@@ -1,4 +1,4 @@
-VOIS Website 🌐 VOIS AI – Smart Voice Assistant 🎙️💻
+VOIS Software 🌐 VOIS AI – Smart Voice Assistant 🎙️💻
 
 Automate Your World with Voice Commands
 
