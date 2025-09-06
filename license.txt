@@ -1,0 +1,33 @@
+VOIS AI ASSISTANT - SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: Please read this License Agreement carefully before using the VOIS AI Assistant software.
+
+By installing, copying, or using this software, you agree to be bound by the terms of this license.
+
+1. LICENSE GRANT
+This software is provided to you free of charge for personal, educational, and non-commercial use. You may install and use VOIS on one or more devices owned by you.
+
+2. OWNERSHIP
+The software is the intellectual property of its developer and is protected by copyright laws. You may not claim ownership of this software or its components.
+
+3. RESTRICTIONS
+You may not:
+- Sell, rent, or distribute the software commercially without permission.
+- Reverse-engineer, modify, or create derivative works of the software.
+- Use the software for malicious, harmful, or illegal purposes.
+
+4. PRIVACY NOTICE
+VOIS may use your voice commands to perform actions, but it does not collect, store, or transmit your personal data. All operations are local to your device.
+
+5. LIMITATION OF LIABILITY
+The software is provided "AS IS", without warranty of any kind. The developer shall not be liable for any damages arising from the use or inability to use this software.
+
+6. TERMINATION
+This license is effective until terminated. You may terminate it at any time by deleting all copies of the software. Violation of this license will result in automatic termination.
+
+7. CONTACT
+For feedback or queries, contact the developer through the official distribution platform or website.
+
+By continuing with installation, you agree to the above terms.
+
+© 2025 VOIS Project. All Rights Reserved.
