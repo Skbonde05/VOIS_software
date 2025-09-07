@@ -1,85 +1,87 @@
-VOIS Software 🌐 VOIS AI – Smart Voice Assistant 🎙️💻
+<p align="center">
+  <img src="images/hero.gif" alt="VOIS AI" width="600"/>
+</p>
 
-Automate Your World with Voice Commands
+<h1 align="center">🌌 VOIS AI – Smart Voice Assistant 🎙️💻</h1>
 
-VOIS AI (Voice-Operated Intelligent System) is a Python-based voice-controlled assistant that transforms your speech into actions. It helps you control your PC, manage files, search the web, fetch information, and even send emergency alerts — all hands-free.
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python"></a>
+</p>
+  <p align="center">Check Out : [🌐 VOIS AI Website](https://vois-website.vercel.app/)</p>
 
-✨ Key Features 🎤 Voice Interaction
+---
 
-Speech recognition with speech_recognition & pyttsx3
+## ✨ About VOIS AI
 
-Multilingual support (Hindi, Marathi, French)
+VOIS AI (**Voice-Operated Intelligent System**) is a **next-gen voice-controlled assistant** that lets you:
 
-⚡ System Control
+- 💻 Control your PC hands-free  
+- 📂 Manage files & folders instantly  
+- 🌐 Search the web & fetch information  
+- 📡 Send emergency alerts & messages  
+- 🎯 Boost productivity with reminders, apps & automation  
 
-Shutdown, restart, sleep PC
+<p align="center">
+  <img src="images/demo.gif" alt="VOIS AI Demo" width="600"/>
+</p>
 
-Adjust screen brightness & volume
+---
 
-Check CPU, RAM, and battery status
+## 🚀 Features That Make VOIS AI Awesome
 
-📂 File & Folder Management
+<div align="center">
 
-Create, rename, delete files/folders
+| 🎤 Voice Interaction | ⚡ System Control | 📂 File Management |
+|--------------------|----------------|----------------|
+| Multilingual: Hindi, Marathi, French & English | Shutdown, restart, sleep PC | Create, delete, rename files/folders |
+| Context-aware responses | Adjust brightness & volume | Read PDF, Word, TXT docs |
+| Fun, natural conversation style | Monitor CPU, RAM, battery | Search files instantly |
 
-Read PDF, Word, and TXT documents
+| 📅 Productivity | 🌐 Web & Info | 📡 Communication |
+|----------------|---------------|----------------|
+| Set reminders & alarms | Wikipedia & DuckDuckGo search | Send emails via Gmail SMTP |
+| Open apps: Word, Excel, PowerPoint, Calculator | Live weather updates | Emergency SMS alerts via Twilio |
+| Screenshots & camera control | Latest news headlines | Make phone calls hands-free |
 
-Search files (e.g., list all PDFs)
+| 🖱️ Automation |
+|---------------|
+| Move/click mouse via voice |
+| Hotkeys & quick shortcuts |
+| Automate repetitive tasks |
 
-📅 Productivity Tools
+</div>
 
-Set reminders & alarms
+---
 
-Open apps (Word, Excel, PowerPoint, Calculator)
+## 🛠 Tech Stack
 
-Screenshots & camera control
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/pyttsx3-orange" alt="pyttsx3">
+  <img src="https://img.shields.io/badge/speech_recognition-red" alt="speech_recognition">
+  <img src="https://img.shields.io/badge/OpenCV-blue" alt="OpenCV">
+  <img src="https://img.shields.io/badge/pyautogui-green" alt="pyautogui">
+  <img src="https://img.shields.io/badge/Twilio-purple" alt="Twilio">
+</p>
 
-Math calculations & clipboard operations
+---
 
-🌐 Web & Info Retrieval
+## 🎯 Future Roadmap
 
-Wikipedia & DuckDuckGo search
+- 🤖 ChatGPT integration for **smart conversations**  
+- 🎙️ Advanced **NLP-based voice recognition**  
+- 🏠 IoT & smart home device integration  
+- 💻 Cross-platform support: Windows, Linux, Mac, Mobile  
 
-Weather reports (OpenWeatherMap API)
+<p align="center">
+  <img src="images/future.gif" alt="Future roadmap" width="600"/>
+</p>
 
-Latest news headlines (RSS feeds)
+---
 
-📡 Communication
+## 🌐 Website Screenshots
+<img width="1000" height="605" alt="image" src="https://github.com/user-attachments/assets/8beacf6f-3fce-4d50-85e8-d093df5ea99e" />
+<img width="1000" height="594" alt="image" src="https://github.com/user-attachments/assets/51a984f8-85d8-4d20-9a10-0be57326a731" />
 
-Send emails via Gmail SMTP
 
-Emergency SMS alerts with location (Twilio)
-
-Make phone calls
-
-🖱️ Automation & Mouse Control
-
-Move/click mouse with voice
-
-Hotkeys for quick shortcuts
-
-🛠 Tech Stack
-
-Language: Python 3.x
-
-Libraries: pyttsx3, speechrecognition, opencv-python, pyautogui, requests, twilio, feedparser, psutil, PyPDF2, python-docx, etc.
-
-APIs:
-
-OpenWeatherMap (weather updates)
-
-Twilio (SMS alerts)
-
-Gmail SMTP (email sending)
-
-🚀 Future Scope
-
-🤖 Integrate ChatGPT for natural conversations
-
-🎙️ Smarter voice recognition with NLP
-
-🏠 IoT & smart home device integration
-
-💻 Cross-platform support (Linux, Mac, Mobile)
-
-✨ Visit the Website: VOIS Website
